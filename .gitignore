@@ -1,0 +1,35 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# KiCad backup and autosave files
+*~*
+_autosave-*
+*.bak
+*.bck
+*-backups/
+*.kicad_prl
+*.lck
+fp-info-cache
+
+# KiCad 6+ specific cache
+*.kicad_sch-bak
+*.kicad_pcb-bak
+*.kicad_pro-bak
+
+# KiCad generated files
+*.net
+*.xml
+*.csv
+*.tmp
+*.log
+*.cache
+sym-lib-table
+fp-lib-table
+
+# Other junk
+*.zip
+*.tar
+*.gz
+
